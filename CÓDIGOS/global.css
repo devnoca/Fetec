@@ -55,6 +55,8 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -66,7 +68,6 @@ body {
   font-weight: <weight>;
   font-style: normal;
 }
-
 
 .container {
   padding: 10px;
