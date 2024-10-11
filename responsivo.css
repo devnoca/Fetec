@@ -1,0 +1,27 @@
+@media (max-width: 1120px) {
+    .principal {
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+    .principal .personagens {
+        margin-top: 37px;
+    }
+    .principal .lista-personagem {
+        gap: 9px;
+    }
+    .principal .personagem img {
+        width: 80px;
+    }
+    .section-two {
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+    .section-two img {
+        width: 80px;
+    }
+    .section-two .info__container {
+        
+    }
+}
